@@ -1,0 +1,52 @@
+2016-08-18 11:31:42,709 OcrUnit.py[line:87] INFO 4743
+2016-08-18 11:31:42,709 OcrUnit.py[line:106] INFO OCR Result [{'code': '202', 'data': '4743', 'result': True, 'id': '47d2210f-64f4-11e6-8ffc-005056c00008'}]
+2016-08-18 11:42:56,724 OcrUnit.py[line:87] INFO 5530
+2016-08-18 11:42:56,726 OcrUnit.py[line:106] INFO OCR Result [{'code': '202', 'data': '5530', 'result': True, 'id': 'd9dad061-64f5-11e6-887f-005056c00008'}]
+2016-08-18 11:43:03,305 OcrUnit.py[line:87] INFO 3055
+2016-08-18 11:43:03,305 OcrUnit.py[line:106] INFO OCR Result [{'code': '202', 'data': '3055', 'result': True, 'id': 'ddc96fb0-64f5-11e6-93a8-005056c00008'}]
+2016-08-18 14:02:38,072 OcrUnit.py[line:87] INFO 4743
+2016-08-18 14:02:38,072 OcrUnit.py[line:106] INFO OCR Result [{'code': '202', 'data': '4743', 'result': True, 'id': '5d7db7cf-6509-11e6-88be-005056c00008'}]
+2016-08-18 14:28:21,157 OcrUnit.py[line:87] INFO 
+2016-08-18 14:28:21,157 OcrUnit.py[line:106] INFO OCR Result [{'code': '202', 'data': '', 'result': True, 'id': 'f53a241e-650c-11e6-9557-005056c00008'}]
+2016-08-18 14:28:34,950 OcrUnit.py[line:87] INFO ".443
+2016-08-18 14:28:34,950 OcrUnit.py[line:106] INFO OCR Result [{'code': '202', 'data': '".443', 'result': True, 'id': 'fd6b280f-650c-11e6-a37c-005056c00008'}]
+2016-08-18 14:36:17,499 OcrUnit.py[line:87] INFO 5530
+2016-08-18 14:36:17,500 OcrUnit.py[line:106] INFO OCR Result [{'code': '202', 'data': '5530', 'result': True, 'id': '11317421-650e-11e6-94bf-005056c00008'}]
+2016-08-18 17:41:20,382 OcrUnit.py[line:87] INFO 5530
+2016-08-18 17:41:20,384 OcrUnit.py[line:106] INFO OCR Result [{'code': '202', 'data': '5530', 'result': True, 'id': 'eb01c330-6527-11e6-be60-005056c00008'}]
+2016-08-18 17:53:22,335 OcrUnit.py[line:87] INFO ".443
+2016-08-18 17:53:22,335 OcrUnit.py[line:106] INFO OCR Result [{'code': '202', 'data': '".443', 'result': True, 'id': '993d3a4f-6529-11e6-914b-005056c00008'}]
+2016-08-18 18:43:27,752 OcrUnit.py[line:87] INFO 5131:?5
+2016-08-18 18:43:27,752 OcrUnit.py[line:106] INFO OCR Result [{'code': '202', 'data': '5131:?5', 'result': True, 'id': '98a5b10f-6530-11e6-806a-005056c00008'}]
+2016-08-18 20:33:26,351 TangShanOcr.py[line:90] INFO 4477
+2016-08-18 20:33:26,351 TangShanOcr.py[line:110] INFO OCR Result [{'code': '202', 'data': '4477', 'result': True, 'id': 'f5bdf1ee-653f-11e6-841b-005056c00008'}]
+2016-08-18 20:33:51,028 TangShanOcr.py[line:90] INFO 4289
+2016-08-18 20:33:51,029 TangShanOcr.py[line:110] INFO OCR Result [{'code': '202', 'data': '4289', 'result': True, 'id': '04827670-6540-11e6-a1ee-005056c00008'}]
+2016-08-18 20:59:04,328 HeFeiOcr.py[line:85] INFO 5530
+2016-08-18 20:59:04,328 HeFeiOcr.py[line:105] INFO OCR Result [{'code': '202', 'data': '5530', 'result': True, 'id': '8a7c125e-6543-11e6-b4b0-005056c00008'}]
+2016-08-18 20:59:15,421 HeFeiOcr.py[line:85] INFO Z063
+2016-08-18 20:59:15,421 HeFeiOcr.py[line:105] INFO OCR Result [{'code': '202', 'data': 'Z063', 'result': True, 'id': '911deacf-6543-11e6-9121-005056c00008'}]
+2016-08-18 20:59:24,900 HeFeiOcr.py[line:85] INFO 3915
+2016-08-18 20:59:24,901 HeFeiOcr.py[line:105] INFO OCR Result [{'code': '202', 'data': '3915', 'result': True, 'id': '96c4e880-6543-11e6-b059-005056c00008'}]
+2016-08-18 21:00:10,630 OcrUnit.py[line:87] INFO -5-2-5
+2016-08-18 21:00:10,630 OcrUnit.py[line:106] INFO OCR Result [{'code': '202', 'data': '-5-2-5', 'result': True, 'id': 'b1f3fbf0-6543-11e6-9335-005056c00008'}]
+2016-08-18 21:00:42,338 HeFeiOcr.py[line:85] INFO 4743
+2016-08-18 21:00:42,338 HeFeiOcr.py[line:105] INFO OCR Result [{'code': '202', 'data': '4743', 'result': True, 'id': 'c4ed2970-6543-11e6-8202-005056c00008'}]
+2016-08-18 21:00:51,907 HeFeiOcr.py[line:85] INFO ‘1841
+2016-08-18 21:00:51,907 HeFeiOcr.py[line:105] INFO OCR Result [{'code': '202', 'data': '\xe2\x80\x981841', 'result': True, 'id': 'ca9e604f-6543-11e6-a643-005056c00008'}]
+2016-08-19 09:55:08,698 HeFeiOcr.py[line:85] INFO 4404
+2016-08-19 09:55:08,700 HeFeiOcr.py[line:105] INFO OCR Result [{'code': '202', 'data': '4404', 'result': True, 'id': 'f4ee5100-65af-11e6-9775-005056c00008'}]
+2016-08-19 09:55:39,523 HeFeiOcr.py[line:85] INFO 4404
+2016-08-19 09:55:39,523 HeFeiOcr.py[line:105] INFO OCR Result [{'code': '202', 'data': '4404', 'result': True, 'id': '076a111e-65b0-11e6-932d-005056c00008'}]
+2016-08-19 09:56:45,415 HeFeiOcr.py[line:85] INFO 1090
+2016-08-19 09:56:45,415 HeFeiOcr.py[line:105] INFO OCR Result [{'code': '202', 'data': '1090', 'result': True, 'id': '2eadf261-65b0-11e6-b9a8-005056c00008'}]
+2016-08-19 09:57:31,413 OcrUnit.py[line:87] INFO 4743
+2016-08-19 09:57:31,414 OcrUnit.py[line:106] INFO OCR Result [{'code': '202', 'data': '4743', 'result': True, 'id': '4a17ebf0-65b0-11e6-b803-005056c00008'}]
+2016-08-19 09:58:05,865 HeFeiOcr.py[line:85] INFO 1199
+2016-08-19 09:58:05,865 HeFeiOcr.py[line:105] INFO OCR Result [{'code': '202', 'data': '1199', 'result': True, 'id': '5ea3a04f-65b0-11e6-b1dc-005056c00008'}]
+2016-08-19 11:34:37,862 TangShanOcr.py[line:90] INFO 4477
+2016-08-19 11:34:37,862 TangShanOcr.py[line:110] INFO OCR Result [{'code': '202', 'data': '4477', 'result': True, 'id': 'da8a7470-65bd-11e6-9529-005056c00008'}]
+2016-08-19 13:57:20,813 HeFeiOcr.py[line:85] INFO 9102
+2016-08-19 13:57:20,815 HeFeiOcr.py[line:105] INFO OCR Result [{'code': '202', 'data': '9102', 'result': True, 'id': 'cacd6f0f-65d1-11e6-83f7-005056c00008'}]
+2016-08-19 13:57:46,914 HeFeiOcr.py[line:85] INFO 9102
+2016-08-19 13:57:46,914 HeFeiOcr.py[line:105] INFO OCR Result [{'code': '202', 'data': '9102', 'result': True, 'id': 'da68cb8f-65d1-11e6-a2b0-005056c00008'}]

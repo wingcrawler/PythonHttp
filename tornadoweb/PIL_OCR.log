@@ -1,0 +1,137 @@
+2016-07-22 14:06:46,543 OcrUnit.py[line:84] INFO 6qj3yv
+2016-07-22 14:06:46,543 - OcrUnit.py:84 - OCR - 6qj3yv
+2016-07-22 14:06:46,552 OcrUnit.py[line:102] INFO FileToImage error [{'code': '202', 'data': '6qj3yv', 'result': True}]
+2016-07-22 14:06:46,552 - OcrUnit.py:102 - OCR - FileToImage error [{'code': '202', 'data': '6qj3yv', 'result': True}]
+2016-07-22 14:07:16,240 OcrUnit.py[line:84] INFO 6qj3yv
+2016-07-22 14:07:16,240 - OcrUnit.py:84 - OCR - 6qj3yv
+2016-07-22 14:07:16,240 OcrUnit.py[line:102] INFO FileToImage error [{'code': '202', 'data': '6qj3yv', 'result': True}]
+2016-07-22 14:07:16,240 - OcrUnit.py:102 - OCR - FileToImage error [{'code': '202', 'data': '6qj3yv', 'result': True}]
+2016-07-22 14:09:39,983 PbccrcOCRService.py[line:58] INFO ip ::1
+2016-07-22 14:09:39,983 - PbccrcOCRService.py:58 - OCR - ip ::1
+2016-07-22 14:09:40,180 OcrUnit.py[line:84] INFO 6qj3yv
+2016-07-22 14:09:40,180 - OcrUnit.py:84 - OCR - 6qj3yv
+2016-07-22 14:09:40,180 OcrUnit.py[line:102] INFO FileToImage error [{'code': '202', 'data': '6qj3yv', 'result': True}]
+2016-07-22 14:09:40,180 - OcrUnit.py:102 - OCR - FileToImage error [{'code': '202', 'data': '6qj3yv', 'result': True}]
+2016-07-22 14:13:34,790 PbccrcOCRService.py[line:53] INFO ip ::1
+2016-07-22 14:13:35,032 OcrUnit.py[line:84] INFO 6qj3yv
+2016-07-22 14:13:35,032 OcrUnit.py[line:102] INFO FileToImage error [{'code': '202', 'data': '6qj3yv', 'result': True}]
+2016-07-22 14:15:56,006 PbccrcOCRService.py[line:51] INFO ip ::1
+2016-07-22 14:15:56,134 OcrUnit.py[line:84] INFO 6qj3yv
+2016-07-22 14:15:56,134 OcrUnit.py[line:101] INFO OCR Result [{'code': '202', 'data': '6qj3yv', 'result': True}]
+2016-07-22 14:22:25,434 PbccrcOCRService.py[line:52] INFO ip ::1
+2016-07-22 14:22:25,569 OcrUnit.py[line:84] INFO 6qj3yv
+2016-07-22 14:22:25,569 OcrUnit.py[line:101] INFO OCR Result [{'code': '202', 'data': '6qj3yv', 'result': True}]
+2016-07-25 11:56:48,588 PbccrcOCRService.py[line:54] INFO ip ::1
+2016-07-25 11:56:48,588 OcrUnit.py[line:87] INFO FileToImage error [[Errno 13] Permission denied: 'file/']
+2016-07-25 11:56:48,588 OcrUnit.py[line:104] INFO OCR Result [{'code': '572', 'data': "[Errno 13] Permission denied: 'file/'", 'result': False, 'id': UUID('cfd5f8c0-521b-11e6-9c9d-408d5cdbd1ef')}]
+2016-07-25 11:58:01,898 PbccrcOCRService.py[line:54] INFO ip ::1
+2016-07-25 11:58:01,901 OcrUnit.py[line:87] INFO FileToImage error [[Errno 13] Permission denied: 'file/']
+2016-07-25 11:58:01,901 OcrUnit.py[line:104] INFO OCR Result [{'code': '572', 'data': "[Errno 13] Permission denied: 'file/'", 'result': False, 'id': UUID('fb8830a1-521b-11e6-800b-408d5cdbd1ef')}]
+2016-07-25 12:00:11,124 PbccrcOCRService.py[line:54] INFO ip ::1
+2016-07-25 12:00:11,124 OcrUnit.py[line:87] INFO FileToImage error [[Errno 13] Permission denied: 'file/']
+2016-07-25 12:00:11,125 OcrUnit.py[line:104] INFO OCR Result [{'code': '572', 'data': "[Errno 13] Permission denied: 'file/'", 'result': False, 'id': '488e5c2e-521c-11e6-90d8-408d5cdbd1ef'}]
+2016-07-25 12:30:38,010 PbccrcOCRService.py[line:55] INFO ip ::1
+2016-07-25 12:30:38,582 OcrUnit.py[line:85] INFO 6qj3yv
+2016-07-25 12:30:38,582 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': '6qj3yv', 'result': True, 'id': '8977319e-5220-11e6-929e-408d5cdbd1ef'}]
+2016-07-26 11:03:27,835 PbccrcOCRService.py[line:57] INFO ip 127.0.0.1
+2016-07-26 11:03:28,415 OcrUnit.py[line:85] INFO 6qj3yv
+2016-07-26 11:03:28,415 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': '6qj3yv', 'result': True, 'id': '8671bdf0-52dd-11e6-a076-408d5cdbd1ef'}]
+2016-07-26 11:38:30,835 PbccrcOCRService.py[line:58] INFO ip 127.0.0.1
+2016-07-26 11:38:31,108 OcrUnit.py[line:85] INFO 6qj3yv
+2016-07-26 11:38:31,108 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': '6qj3yv', 'result': True, 'id': '6befc121-52e2-11e6-ba6b-408d5cdbd1ef'}]
+2016-07-26 11:43:32,571 PbccrcOCRService.py[line:56] INFO ip 127.0.0.1
+2016-07-26 11:43:32,686 OcrUnit.py[line:85] INFO 6qj3yv
+2016-07-26 11:43:32,686 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': '6qj3yv', 'result': True, 'id': '1fc9039e-52e3-11e6-89b0-408d5cdbd1ef'}]
+2016-07-26 13:47:48,619 PbccrcOCRService.py[line:68] INFO callback username
+2016-07-26 13:48:29,348 PbccrcOCRService.py[line:68] INFO callback username
+2016-07-26 13:49:08,638 PbccrcOCRService.py[line:68] INFO callback username skjdhfgsk
+2016-07-26 13:52:32,397 PbccrcOCRService.py[line:68] INFO callback_imageID [skjdhfgsk]
+2016-07-26 13:52:52,549 PbccrcOCRService.py[line:68] INFO callback_imageID [skjdhfgsk]
+2016-07-26 13:52:53,615 PbccrcOCRService.py[line:68] INFO callback_imageID [skjdhfgsk]
+2016-07-26 13:52:54,068 PbccrcOCRService.py[line:68] INFO callback_imageID [skjdhfgsk]
+2016-07-26 13:57:00,033 PbccrcOCRService.py[line:68] INFO callback_imageID [skjdhfgsk]
+2016-07-26 13:57:29,971 PbccrcOCRService.py[line:68] INFO callback_imageID [skjdhfgsk]
+2016-07-26 13:58:32,038 PbccrcOCRService.py[line:68] INFO callback_imageID [skjdhfgsk]
+2016-07-26 14:03:35,101 PbccrcOCRService.py[line:69] INFO callback_imageID [skjdhfgsk]
+2016-07-26 14:04:24,259 PbccrcOCRService.py[line:69] INFO callback_imageID [skjdhfgsk]
+2016-07-26 14:04:25,719 PbccrcOCRService.py[line:69] INFO callback_imageID [skjdhfgsk]
+2016-08-05 13:48:58,515 OcrUnit.py[line:87] INFO FileToImage error [[Errno 2] No such file or directory: u'1467083809659.png']
+2016-08-05 13:48:58,515 OcrUnit.py[line:104] INFO OCR Result [{'code': '572', 'data': "[Errno 2] No such file or directory: u'1467083809659.png'", 'result': False, 'id': '4dba480f-5ad0-11e6-93e3-408d5cdbd1ef'}]
+2016-08-05 13:54:49,358 OcrUnit.py[line:85] INFO 111011-81
+2016-08-05 13:54:49,358 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': '111011-81', 'result': True, 'id': '1e7ef400-5ad1-11e6-bff1-408d5cdbd1ef'}]
+2016-08-05 13:55:01,786 OcrUnit.py[line:85] INFO 56565
+2016-08-05 13:55:01,786 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': '56565', 'result': True, 'id': '2630dcde-5ad1-11e6-9484-408d5cdbd1ef'}]
+2016-08-05 13:55:11,505 OcrUnit.py[line:85] INFO 711.111
+2016-08-05 13:55:11,505 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': '711.111', 'result': True, 'id': '2bfaa4cf-5ad1-11e6-90e6-408d5cdbd1ef'}]
+2016-08-05 13:55:19,986 OcrUnit.py[line:85] INFO 111115115
+2016-08-05 13:55:19,987 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': '111115115', 'result': True, 'id': '31073740-5ad1-11e6-a45e-408d5cdbd1ef'}]
+2016-08-05 13:55:29,536 OcrUnit.py[line:85] INFO 400038
+2016-08-05 13:55:29,536 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': '400038', 'result': True, 'id': '36b783c0-5ad1-11e6-a54a-408d5cdbd1ef'}]
+2016-08-05 13:59:38,769 OcrUnit.py[line:85] INFO 136111
+2016-08-05 13:59:38,769 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': '136111', 'result': True, 'id': 'cb3e6ef0-5ad1-11e6-a961-408d5cdbd1ef'}]
+2016-08-05 13:59:47,049 OcrUnit.py[line:85] INFO 611666
+2016-08-05 13:59:47,049 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': '611666', 'result': True, 'id': 'd0377961-5ad1-11e6-9424-408d5cdbd1ef'}]
+2016-08-05 14:00:12,671 OcrUnit.py[line:85] INFO 7111118
+2016-08-05 14:00:12,671 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': '7111118', 'result': True, 'id': 'df796b40-5ad1-11e6-9d89-408d5cdbd1ef'}]
+2016-08-05 14:01:16,130 OcrUnit.py[line:85] INFO eae66i
+2016-08-05 14:01:16,130 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': 'eae66i', 'result': True, 'id': '054e2c21-5ad2-11e6-ab6b-408d5cdbd1ef'}]
+2016-08-05 14:09:49,799 OcrUnit.py[line:85] INFO hqdjsk
+2016-08-05 14:09:49,799 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': 'hqdjsk', 'result': True, 'id': '37682430-5ad3-11e6-b1b6-408d5cdbd1ef'}]
+2016-08-05 14:10:02,016 OcrUnit.py[line:85] INFO ict3us
+2016-08-05 14:10:02,016 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': 'ict3us', 'result': True, 'id': '3eb04ec0-5ad3-11e6-917f-408d5cdbd1ef'}]
+2016-08-05 14:10:12,490 OcrUnit.py[line:85] INFO xxq64g
+2016-08-05 14:10:12,490 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': 'xxq64g', 'result': True, 'id': '45000f8f-5ad3-11e6-baeb-408d5cdbd1ef'}]
+2016-08-05 14:10:21,355 OcrUnit.py[line:85] INFO eae66i
+2016-08-05 14:10:21,355 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': 'eae66i', 'result': True, 'id': '4a4b7fc0-5ad3-11e6-bbdc-408d5cdbd1ef'}]
+2016-08-05 14:10:32,299 OcrUnit.py[line:85] INFO un3dba
+2016-08-05 14:10:32,299 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': 'un3dba', 'result': True, 'id': '50c780ae-5ad3-11e6-a9c3-408d5cdbd1ef'}]
+2016-08-05 14:10:42,114 OcrUnit.py[line:85] INFO a4iqi3
+2016-08-05 14:10:42,114 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': 'a4iqi3', 'result': True, 'id': '56a87a21-5ad3-11e6-8608-408d5cdbd1ef'}]
+2016-08-05 14:12:37,711 OcrUnit.py[line:85] INFO xﬂ5ia
+2016-08-05 14:12:37,711 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': 'x\xef\xac\x825ia', 'result': True, 'id': '9b8a9a0f-5ad3-11e6-9a69-408d5cdbd1ef'}]
+2016-08-05 14:12:44,384 OcrUnit.py[line:85] INFO 6uyt9c
+2016-08-05 14:12:44,385 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': '6uyt9c', 'result': True, 'id': '9f7e1b5e-5ad3-11e6-9a34-408d5cdbd1ef'}]
+2016-08-05 14:12:50,948 OcrUnit.py[line:85] INFO 75pug3
+2016-08-05 14:12:50,948 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': '75pug3', 'result': True, 'id': 'a3708b40-5ad3-11e6-a2ed-408d5cdbd1ef'}]
+2016-08-05 14:12:57,433 OcrUnit.py[line:85] INFO g4ga1d
+2016-08-05 14:12:57,434 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': 'g4ga1d', 'result': True, 'id': 'a75120cf-5ad3-11e6-bef9-408d5cdbd1ef'}]
+2016-08-05 14:13:10,463 OcrUnit.py[line:85] INFO 9bg6ub
+2016-08-05 14:13:10,463 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': '9bg6ub', 'result': True, 'id': 'af1495e1-5ad3-11e6-b1f7-408d5cdbd1ef'}]
+2016-08-05 14:13:16,625 OcrUnit.py[line:85] INFO 6uyt9c
+2016-08-05 14:13:16,625 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': '6uyt9c', 'result': True, 'id': 'b2b53c40-5ad3-11e6-9f0e-408d5cdbd1ef'}]
+2016-08-05 14:13:24,519 OcrUnit.py[line:85] INFO i3jt39
+2016-08-05 14:13:24,519 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': 'i3jt39', 'result': True, 'id': 'b7718bcf-5ad3-11e6-92e5-408d5cdbd1ef'}]
+2016-08-05 14:13:31,361 OcrUnit.py[line:85] INFO '?3kbb6
+2016-08-05 14:13:31,361 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': "'?3kbb6", 'result': True, 'id': 'bb7e135e-5ad3-11e6-8283-408d5cdbd1ef'}]
+2016-08-05 15:28:48,118 OcrUnit.py[line:85] INFO '?3kbb6
+2016-08-05 15:28:48,118 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': "'?3kbb6", 'result': True, 'id': '3fa8695e-5ade-11e6-922e-408d5cdbd1ef'}]
+2016-08-05 15:28:56,371 OcrUnit.py[line:85] INFO 4djudc
+2016-08-05 15:28:56,371 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': '4djudc', 'result': True, 'id': '449abd0f-5ade-11e6-be17-408d5cdbd1ef'}]
+2016-08-05 15:36:20,961 OcrUnit.py[line:85] INFO ivxeva
+2016-08-05 15:36:20,961 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': 'ivxeva', 'result': True, 'id': '4da73770-5adf-11e6-ba19-408d5cdbd1ef'}]
+2016-08-05 15:36:30,384 OcrUnit.py[line:85] INFO xtt6it
+2016-08-05 15:36:30,384 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': 'xtt6it', 'result': True, 'id': '5345a9a1-5adf-11e6-aa3f-408d5cdbd1ef'}]
+2016-08-05 15:36:39,661 OcrUnit.py[line:85] INFO 3v43ys
+2016-08-05 15:36:39,661 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': '3v43ys', 'result': True, 'id': '58ce9800-5adf-11e6-8a08-408d5cdbd1ef'}]
+2016-08-05 15:36:52,563 OcrUnit.py[line:85] INFO psthhp
+2016-08-05 15:36:52,563 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': 'psthhp', 'result': True, 'id': '607b9ee1-5adf-11e6-b47a-408d5cdbd1ef'}]
+2016-08-05 15:37:02,316 OcrUnit.py[line:85] INFO 7ktdcs
+2016-08-05 15:37:02,316 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': '7ktdcs', 'result': True, 'id': '663fc180-5adf-11e6-b484-408d5cdbd1ef'}]
+2016-08-05 15:37:13,150 OcrUnit.py[line:85] INFO u3ue43
+2016-08-05 15:37:13,150 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': 'u3ue43', 'result': True, 'id': '6cb72e91-5adf-11e6-8fe5-408d5cdbd1ef'}]
+2016-08-05 15:37:39,345 OcrUnit.py[line:85] INFO 5i8k5k
+2016-08-05 15:37:39,345 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': '5i8k5k', 'result': True, 'id': '7c5faa70-5adf-11e6-85df-408d5cdbd1ef'}]
+2016-08-05 15:37:48,062 OcrUnit.py[line:85] INFO kaetjv
+2016-08-05 15:37:48,063 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': 'kaetjv', 'result': True, 'id': '81847fcf-5adf-11e6-9660-408d5cdbd1ef'}]
+2016-08-05 15:38:04,364 OcrUnit.py[line:85] INFO jd4kce
+2016-08-05 15:38:04,364 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': 'jd4kce', 'result': True, 'id': '8b32fc00-5adf-11e6-a54b-408d5cdbd1ef'}]
+2016-08-05 15:46:17,855 OcrUnit.py[line:85] INFO niy9fr
+2016-08-05 15:46:17,855 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': 'niy9fr', 'result': True, 'id': 'b16be070-5ae0-11e6-bc56-408d5cdbd1ef'}]
+2016-08-05 15:46:26,243 OcrUnit.py[line:85] INFO uu59ij
+2016-08-05 15:46:26,244 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': 'uu59ij', 'result': True, 'id': 'b669a5cf-5ae0-11e6-9c9e-408d5cdbd1ef'}]
+2016-08-05 18:21:36,029 OcrUnit.py[line:85] INFO 2368
+2016-08-05 18:21:36,030 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': '2368', 'result': True, 'id': '635d1c80-5af6-11e6-807c-408d5cdbd1ef'}]
+2016-08-05 18:21:59,387 OcrUnit.py[line:85] INFO 5029
+2016-08-05 18:21:59,387 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': '5029', 'result': True, 'id': '716f19de-5af6-11e6-b720-408d5cdbd1ef'}]
+2016-08-05 18:48:46,266 OcrUnit.py[line:85] INFO 0049
+2016-08-05 18:48:46,267 OcrUnit.py[line:104] INFO OCR Result [{'code': '202', 'data': '0049', 'result': True, 'id': '2f2f6d61-5afa-11e6-9dc0-408d5cdbd1ef'}]
